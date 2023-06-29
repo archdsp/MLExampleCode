@@ -9,3 +9,5 @@ source .venv/bin/activate
 pip install  --upgrade pip
 pip install -r requirements.txt
 ```
+# TODO
+[] vision/ autoencoder and transpose convolution
